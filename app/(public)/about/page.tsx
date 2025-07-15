@@ -235,14 +235,14 @@ export default function AboutPage() {
                 </div>
 
                 {/* Resume Download */}
-                <motion.button
+                {/* <motion.button
                   className="w-full flex items-center justify-center gap-2 px-4 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-xl font-semibold hover:opacity-90 transition-opacity"
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                 >
                   <Download className="w-4 h-4" />
                   Download Resume
-                </motion.button>
+                </motion.button> */}
               </div>
             </motion.div>
 
